@@ -1,5 +1,7 @@
+// eslint-disable-next-line no-unused-vars
 const callMe = () => {
-    let nu1 = 1;
-    let nu2 = 2;
-    nu1 + nu2;
-}
+  const nu1 = 1;
+  const nu2 = 2;
+  // eslint-disable-next-line no-unused-expressions
+  nu1 + nu2;
+};
